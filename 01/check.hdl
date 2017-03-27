@@ -1,0 +1,10 @@
+CHIP Check {
+    IN a[16],y;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+    And16(a=a,b=true,out=out);
+	
+	
+	}
