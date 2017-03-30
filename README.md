@@ -7,3 +7,5 @@ Main goals accomplished:
    to a family of RAM chips.
 3. Wrote an Assembler to translate the low-level machine language to a series of binary codes.
 4. Assembled all the building blocks into a general purpose 16-bit computer called Hack.
+
+Note: Check out "branches" for more details and the code.
